@@ -14,6 +14,7 @@ namespace CursoTecOO
                 {  "Matrizes - Técnicas de orientação a objetos e estruturas de dados", Matrizes.Executar  },
                 {  "Listas - Técnicas de orientação a objetos e estruturas de dados", Listas.Executar  },
                 {  "Conjuntos - Técnicas de orientação a objetos e estruturas de dados", Conjuntos.Executar  },
+                {  "Herança - Técnicas de orientação a objetos e estruturas de dados", Herança.Executar  },
             });
             
             central.SelecionarEExecutar();
