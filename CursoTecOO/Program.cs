@@ -11,6 +11,7 @@ namespace CursoTecOO
             var central = new CentralDeExercicios(new Dictionary<string, Action>()
             {
                 {  "Vetores - Técnicas de orientação a objetos e estruturas de dados", Vetores.Executar  },
+                {  "Matrizes - Técnicas de orientação a objetos e estruturas de dados", Matrizes.Executar  },
             });
             
             central.SelecionarEExecutar();
